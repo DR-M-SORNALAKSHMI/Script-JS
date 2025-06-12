@@ -1,0 +1,6 @@
+Console: 
+Country name: India, Region: Asia, currencies: Indian rupees, Populations: 100000000
+
+HTML document elements: Print design
+
+Result: 5 Countries with above fields
